@@ -1,10 +1,11 @@
 export const globalOptions = {
-  name: "robert-data-connec-119690",
-  url: "https://robert-data-connec-119690.botics.co",
-  api: "https://robert-data-connec-119690.botics.co/api/v1",
-  screenOptions: {
-    headerShown: false
-  }
+  "name": "robert-data-connec-119690",
+  "url": "https://robert-data-connec-119690.botics.co",
+  "api": "https://robert-data-connec-119690.botics.co/api/v1",
+  "screenOptions": {
+    "headerShown": false
+  },
+  "initialRoute": "welcome"
 };
 export const modulesOptions = {
   "@modules/app-menu": {
